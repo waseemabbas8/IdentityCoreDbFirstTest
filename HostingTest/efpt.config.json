@@ -1,0 +1,1 @@
+﻿{"ContextClassName":"TesthostingContext","DefaultDacpacSchema":null,"IdReplace":false,"IncludeConnectionString":false,"OutputPath":"Models","ProjectRootNamespace":"HostingTest.Data","SelectedToBeGenerated":2,"Tables":[{"HasPrimaryKey":true,"Name":"dbo.Student"}],"UseDatabaseNames":false,"UseFluentApiOnly":false,"UseHandleBars":false,"UseInflector":false}
